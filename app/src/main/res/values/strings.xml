@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">ProductShopping</string>
+    <string name="products_name">Products Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="rating">Rating</string>
+    <string name="buy">Buy Now</string>
+    <string name="share">Share</string>
+    <string name="about_page">Profile</string>
+    <string name="profile_name">Dheril Ismail Octavians</string>
+    <string name="profile_email">dheril.oct@gmail.com</string>
+    <string name="specification">Specification</string>
+    <string name="chip">Chipset</string>
+    <string name="display">Display</string>
+    <string name="storage">Storage</string>
+    <string name="content_spec_chip">Spec CPU</string>
+    <string name="content_spec_display">Spec Size</string>
+    <string name="content_spec_storage">Spec Storage</string>
+
+
+    <string-array name="data_spec_chip">
+        <item>Apple A13 Bionic (7 nm+)</item>
+        <item>Apple A11 Bionic (10 nm)</item>
+        <item>Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm)</item>
+        <item>Qualcomm SM6115 Snapdragon 662 (11 nm)</item>
+        <item>Kirin 980 (7 nm)</item>
+        <item>Intel Core i5 7th Gen</item>
+        <item>Intel Core i3 11th Gen</item>
+        <item>Intel Core i5 10th Gen 1035G1</item>
+        <item>Intel Core i5</item>
+        <item>AMD Ryzen 7 4980U</item>
+    </string-array>
+
+    <string-array name="data_spec_display">
+        <item>4.7 inches, 60.9 cm2 (~65.4% screen-to-body ratio)</item>
+        <item>5.8 inches, 84.4 cm2 (~82.9% screen-to-body ratio)</item>
+        <item>6.2 inches, 94.4 cm2 (~90.9% screen-to-body ratio)</item>
+        <item>6.43 inches, 99.8 cm2 (~84.4% screen-to-body ratio)</item>
+        <item>6.1 inches, 91.3 cm2 (~85.8% screen-to-body ratio)</item>
+        <item>16.20-inch</item>
+        <item>15.60-inch</item>
+        <item>14.00-inch</item>
+        <item>15.60-inch</item>
+        <item>15.00-inch</item>
+    </string-array>
+
+    <string-array name="data_spec_storage">
+        <item>64GB/128GB/256GB</item>
+        <item>64GB/256GB</item>
+        <item>128GB/256GB/512GB</item>
+        <item>128GB</item>
+        <item>64GB/128GB/256GB</item>
+        <item>512GB</item>
+        <item>256GB</item>
+        <item>512GB</item>
+        <item>1TB</item>
+        <item>256GB</item>
+    </string-array>
+
+
+
+    <string-array name="data_name">
+        <item>iPhone SE</item>
+        <item>iPhone X</item>
+        <item>Samsung Galaxy S24</item>
+        <item>OPPO F19</item>
+        <item>Huawei P30</item>
+        <item>MacBook Pro</item>
+        <item>Samsung Galaxy Book</item>
+        <item>Infinix INBOOK X1</item>
+        <item>HP Pavilion 15-DK0045TX</item>
+        <item>Microsoft Surface Laptop 4</item>
+    </string-array>
+    <string-array name="data_price">
+        <item>$549</item>
+        <item>$899</item>
+        <item>$1249</item>
+        <item>$280</item>
+        <item>$499</item>
+        <item>$1749</item>
+        <item>$1499</item>
+        <item>$1099</item>
+        <item>$1099</item>
+        <item>$1499</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>4.69/5 ⭐</item>
+        <item>4.44/5 ⭐</item>
+        <item>4.09/5 ⭐</item>
+        <item>4.3/5 ⭐</item>
+        <item>4.09/5 ⭐</item>
+        <item>4.57/5 ⭐</item>
+        <item>4.25/5 ⭐</item>
+        <item>4.54/5 ⭐</item>
+        <item>4.43/5 ⭐</item>
+        <item>4.4/5 ⭐</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Apple iPhone SE (2022) mobile was launched on 8th March 2022. The phone comes with a 60 Hz refresh rate 4.70-inch touchscreen display offering a resolution of 750x1334 pixels (HD+).</item>
+        <item>The iPhone X has to be one of the most-talked about tech products of 2017, and introduces a brand new paradigm for interaction, with gestures replacing buttons and a larger screen than on any previous iPhone.</item>
+        <item>Samsung Galaxy S24 mobile was launched on 17th January 2024. The phone comes with a 120 Hz refresh rate 6.20-inch touchscreen display (FHD+).</item>
+        <item>Oppo F19 mobile was launched on 6th April 2021. The phone comes with a 6.43-inch touchscreen display offering a resolution of 1080x2400 pixels and an aspect ratio of 20:9.</item>
+        <item>Huawei\'s P30 Pro is the first phone to feature a 5X optical zoom capability.</item>
+        <item>Apple MacBook Pro 16-inch 2021 is a macOS laptop with a 16.20-inch display that has a resolution of 3546x2234 pixels.</item>
+        <item>Samsung Galaxy Book S (2020) is a Windows 10 Home laptop with a 13.30-inch display. it comes with 8GB of RAM.</item>
+        <item>The InBook X1 is part of Infinixs first lineup of laptops in India. It has a distinct design and is available in bright red and green colours as well as a more subtle grey.</item>
+        <item>HP Pavilion 15-DK0045TX is a Windows 10 laptop with a 15.60-inch display that has a resolution of 1920x1080 pixels.</item>
+        <item>Microsoft Surface Laptop 4 15-inch is a Windows 10 Home laptop with a 15.00-inch display that has a resolution of 2496x1664 pixels.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/iphone_se</item>
+        <item>@drawable/iphone_x</item>
+        <item>@drawable/samsung_universe_9</item>
+        <item>@drawable/oppof19</item>
+        <item>@drawable/huawei_p30</item>
+        <item>@drawable/macbook_pro</item>
+        <item>@drawable/samsung_galaxy_book</item>
+        <item>@drawable/infinix_inbook</item>
+        <item>@drawable/hp_pavilion_15</item>
+        <item>@drawable/microsoft_surface_laptop_4</item>
+    </integer-array>
+</resources>
